@@ -25,6 +25,10 @@ button {
     border-radius: 50%;
 }
 
+button:hover {
+    background-color: lightpink;
+}
+
 .featuredProjects {
     border: 2px solid black;
     width: 200px;
