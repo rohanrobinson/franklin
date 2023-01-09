@@ -1,11 +1,28 @@
 body {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 span:hover {
     cursor: pointer;
+}
+
+#arrow {
+    color: blue;
+}
+
+button {
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
 }
 
 .featuredProjects {
