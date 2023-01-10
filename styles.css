@@ -11,6 +11,10 @@ span:hover {
     color: blue;
 }
 
+.GoToHomePage {
+    text-align: left;
+}
+
 button {
     border: 2px solid black;
     color: black;
@@ -28,6 +32,13 @@ button {
 button:hover {
     background-color: lightpink;
 }
+
+#trackingContainer {
+    margin-top: 125px;
+}
+
+
+    
 
 .featuredProjects {
     border: 2px solid black;
